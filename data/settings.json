@@ -7,7 +7,7 @@
   "title": "VC-个人导航",
   "description": "资源搜索-助力生活",
   "keywords": "导航,前端资源,实用工具,学习资源",
-  "theme": "Light",
+  "theme": "Sim",
   "appTheme": "App",
   "headerContent": "",
   "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2024-present nav3.cn, All Rights Reserved POWER BY DEBTOR</div>",
