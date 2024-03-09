@@ -10,7 +10,7 @@
   "theme": "Light",
   "appTheme": "Light",
   "headerContent": "",
-  "footerContent": "<div>img src=\"https://img.shields.io/badge/since-_2024-blue\"</div>\n",
+  "footerContent": "<div class=\"footer\">\n        <img src=\"https://img.shields.io/badge/since-_2024-blue\" alt=\"Badge\">\n</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
   "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba",
   "cnzzStatisticsUrl": "",
