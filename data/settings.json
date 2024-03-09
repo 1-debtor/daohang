@@ -1,5 +1,5 @@
 {
-  "favicon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png",
+  "favicon": "https://iconce.com/api/svg?filename=export-icon&type=text&value=vc&totalSize=256&animate=false&fillType=Linear&primaryColor=%235C5C5C&secondaryColor=%230F1015&angle=50&clip=false&radialGlare=false&noiseTexture=false&noiseOpacity=50&radius=64&strokeSize=0&strokeColor=%23FFFFFF&strokeOpacity=100&color=%23FFFFFF&size=128&family=sans-serif",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
   "loading": "loading2",
@@ -7,7 +7,7 @@
   "title": "1发现导航 - 精选实用导航网站",
   "description": "1发现导航 - 精选实用导航网站",
   "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
-  "theme": "Light",
+  "theme": "Sim",
   "appTheme": "App",
   "headerContent": "",
   "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-present nav3.cn, All Rights Reserved</div>",
