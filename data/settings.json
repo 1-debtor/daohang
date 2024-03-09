@@ -10,7 +10,7 @@
   "theme": "Light",
   "appTheme": "Light",
   "headerContent": "",
-  "footerContent": "<div class=\"footer\">\n        <img src=\"https://img.shields.io/badge/-since%202024%20Debtor-8A2BE2\" alt=\"Badge\">\n</div>\n<div id=\"busuanzi_container_site_pv\">\n    本站总访问量<span id=\"busuanzi_value_site_pv\"></span>次\n    <script async src=\"//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js\"></script>\n</div>\n",
+  "footerContent": "<div class=\"footer\">\n        <img src=\"https://img.shields.io/badge/-since%202024%20Debtor-8A2BE2\" alt=\"Badge\">\n</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
   "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba",
   "cnzzStatisticsUrl": "",
