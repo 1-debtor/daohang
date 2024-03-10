@@ -5,7 +5,7 @@
   "loading": "loading2",
   "showGithub": false,
   "title": "VC-个人导航",
-  "description": "资源搜索-助力生活",
+  "description": "",
   "keywords": "导航,前端资源,实用工具,学习资源",
   "theme": "Sim",
   "appTheme": "Light",
@@ -23,7 +23,7 @@
     }
   ],
   "simThemeDesc": "",
-  "simThemeHeight": 334,
+  "simThemeHeight": 335,
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
